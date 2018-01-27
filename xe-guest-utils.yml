@@ -1,5 +1,5 @@
 xe-guest-utils:
-  image: huguesantoine/rancher-xe-guest-utils:latest
+  image: d1ablorus/rancher-xe-guest-utils:latest
   privileged: true
   labels:
     - io.rancher.os.scope=system
