@@ -1,7 +1,7 @@
-\env:
+env:
   global:
   - REPO=d1ablorus/rancher-xe-guest-utils
-  - TAG=v7.0.0-24
+  - TAG=v7.1.50
 
 services:
   - docker
