@@ -1,5 +1,5 @@
 #!/bin/sh
-VERSION="7.0.0-24"
+VERSION="7.1.50"
 FILENAME="v${VERSION}.tar.gz"
 PACKAGE="https://github.com/xenserver/xe-guest-utilities/archive/${FILENAME}"
 
